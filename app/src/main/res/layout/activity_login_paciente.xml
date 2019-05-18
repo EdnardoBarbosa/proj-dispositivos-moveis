@@ -63,10 +63,10 @@
         android:id="@+id/btn_entrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/retangulo"
-        android:drawingCacheQuality="auto"
         android:layout_marginLeft="26dp"
         android:layout_marginRight="26dp"
+        android:background="@drawable/retangulo"
+        android:drawingCacheQuality="auto"
         android:text="Entrar"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         tools:visibility="visible" />

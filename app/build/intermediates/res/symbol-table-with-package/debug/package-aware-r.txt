@@ -1062,7 +1062,8 @@ id barrier
 id beginning
 id blocking
 id bottom
-id btnEntrar
+id btn_cancelar
+id btn_entrar
 id btn_medico
 id btn_paciente
 id buttonPanel
@@ -1282,6 +1283,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_login_paciente
 layout activity_main
+layout activity_main_busca
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
@@ -1365,6 +1367,7 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
+string todo
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

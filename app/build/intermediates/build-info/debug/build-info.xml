@@ -6,25 +6,28 @@
     density="420dpi"
     format="10"
     plugin-version="3.4.0"
-    timestamp="1557690086761"
+    timestamp="1558195597293"
     token="-1603649094036029020"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="6627" />
+        duration="25603" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="580" />
+        duration="291" />
     <task
         name="verifier"
-        duration="328" />
+        duration="362" />
 
     <artifact
         location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
@@ -36,7 +39,13 @@
         location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
+        location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        type="SPLIT" />
+    <artifact
         location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
@@ -51,24 +60,18 @@
         location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
         location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1557690086761"
+        timestamp="1558195597293"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
@@ -80,7 +83,13 @@
             location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
+            location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
@@ -93,15 +102,6 @@
             type="SPLIT" />
         <artifact
             location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\build\intermediates\instant-run-apk\debug\app-debug.apk"

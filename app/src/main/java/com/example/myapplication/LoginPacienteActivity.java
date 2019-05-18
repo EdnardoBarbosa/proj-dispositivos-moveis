@@ -28,6 +28,11 @@ public class LoginPacienteActivity extends AppCompatActivity implements View.OnC
                 startActivity(retornarMain);
                 break;
 
+            case R.id.btn_entrar:
+                Intent retornarMainBusca = new Intent(this, MainBuscaActivity.class);
+                startActivity(retornarMainBusca);
+                break;
+
         }
     }
 }
