@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="todo">TODO</string>
+    <string name="senha">Senha</string>
+    <string name="confirmarSenha">Confirmar Senha</string>
+    <string name="nomeMedico">Nome completo</string>
+    <string name="email">E-mail</string>
+    <string name="endereco">Endereço</string>
+    <string name="crm">CRM</string>
+    <string name="telefone">Telefone</string>
 </resources>
