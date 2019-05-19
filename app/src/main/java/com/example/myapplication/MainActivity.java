@@ -13,20 +13,26 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button btnPaciente1 = (Button) findViewById(R.id.btn_paciente);
+        Button btnPaciente1 = (Button) findViewById(R.id.btn_login);
         btnPaciente1.setOnClickListener(this);
 
-        Button btnMedico1 = (Button) findViewById(R.id.btn_medico);
+        Button btnMedico1 = (Button) findViewById(R.id.btn_cadastro);
         btnMedico1.setOnClickListener(this);
     }
 
     @Override
     public void onClick(View view){
         switch (view.getId()){
-            case R.id.btn_paciente:
-                Intent telaLoginPaciente = new Intent(this, LoginPacienteActivity.class);
+            case R.id.btn_login:
+                Intent telaLoginPaciente = new Intent(this, LoginActivity.class);
                 startActivity(telaLoginPaciente);
+                break;
+
+            case R.id.btn_cadastro:
+                Intent telaCadatro = new Intent(this, FirstActivity.class);
+                startActivity(telaCadatro);
                 break;
         }
     }
+
 }

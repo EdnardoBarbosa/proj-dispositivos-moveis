@@ -8,7 +8,7 @@
     android:background="@drawable/backgroundcolor"
 
     android:orientation="vertical"
-    tools:context=".LoginPacienteActivity">
+    tools:context=".LoginActivity">
 
 
     <ImageView

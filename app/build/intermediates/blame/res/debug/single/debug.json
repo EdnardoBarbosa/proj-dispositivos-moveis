@@ -536,6 +536,10 @@
         "source": "C:\\Users\\ferna\\.gradle\\caches\\transforms-2\\files-2.1\\7e3d8c93772c3eaa0bc892d4aff83e1a\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cadastro_paciente.xml.flat",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_cadastro_paciente.xml"
+    },
+    {
         "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_snackbar_background.xml.flat",
         "source": "C:\\Users\\ferna\\.gradle\\caches\\transforms-2\\files-2.1\\b8e76f1196228945b79e3ca70b7a6acb\\res\\drawable\\design_snackbar_background.xml"
     },
@@ -1294,6 +1298,10 @@
     {
         "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_retangulo2.png.flat",
         "source": "C:\\Users\\ferna\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\drawable-xxxhdpi\\retangulo2.png"
+    },
+    {
+        "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_first.xml.flat",
+        "source": "C:\\Users\\ferna\\AndroidStudioProjects\\MyApplication2\\app\\src\\main\\res\\layout\\activity_first.xml"
     },
     {
         "merged": "C:\\Users\\ferna\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",

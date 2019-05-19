@@ -18,6 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.myapplication.CadastroPacienteActivity" />
+        <activity android:name="com.example.myapplication.FirstActivity" />
         <activity android:name="com.example.myapplication.MainBuscaActivity" />
         <activity android:name="com.example.myapplication.LoginPacienteActivity" />
         <activity android:name="com.example.myapplication.MainActivity" >

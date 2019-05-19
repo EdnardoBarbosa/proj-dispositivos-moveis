@@ -1062,8 +1062,10 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btn_cadastro
 id btn_cancelar
 id btn_entrar
+id btn_login
 id btn_medico
 id btn_paciente
 id buttonPanel
@@ -1092,6 +1094,8 @@ id design_navigation_view
 id dimensions
 id direct
 id disableHome
+id divider
+id editText
 id edit_query
 id end
 id enterAlways
@@ -1116,6 +1120,7 @@ id icon_group
 id ifRoom
 id image
 id imageView
+id imageView2
 id imageView3
 id info
 id invisible
@@ -1281,6 +1286,8 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_cadastro_paciente
+layout activity_first
 layout activity_login_paciente
 layout activity_main
 layout activity_main_busca
