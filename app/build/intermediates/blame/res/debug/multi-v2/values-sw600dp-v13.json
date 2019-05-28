@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\ferna\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ferna\\.gradle\\caches\\transforms-2\\files-2.1\\7e3d8c93772c3eaa0bc892d4aff83e1a\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\ferna\\.gradle\\caches\\transforms-2\\files-2.1\\ed0e1d85c4c8641c01b59a4b17f2e45b\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ferna\\.gradle\\caches\\transforms-2\\files-2.1\\b8e76f1196228945b79e3ca70b7a6acb\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\ferna\\.gradle\\caches\\transforms-2\\files-2.1\\94dedc9cf8cf85b105d4a66644d27353\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

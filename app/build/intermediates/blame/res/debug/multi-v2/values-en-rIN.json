@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\ferna\\AndroidStudioProjects\\MyApplication2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ferna\\.gradle\\caches\\transforms-2\\files-2.1\\7e3d8c93772c3eaa0bc892d4aff83e1a\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\ferna\\.gradle\\caches\\transforms-2\\files-2.1\\ed0e1d85c4c8641c01b59a4b17f2e45b\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ferna\\.gradle\\caches\\transforms-2\\files-2.1\\602cce2441387928db0e32ad7cdb2195\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\ferna\\.gradle\\caches\\transforms-2\\files-2.1\\be104a1e8ace72b4c0aa4036acc4ce94\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
