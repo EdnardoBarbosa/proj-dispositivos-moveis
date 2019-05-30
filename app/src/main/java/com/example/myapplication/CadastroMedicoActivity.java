@@ -1,7 +1,7 @@
 package com.example.myapplication;
 
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
+        import android.support.v7.app.AppCompatActivity;
+        import android.os.Bundle;
 
 public class CadastroMedicoActivity extends AppCompatActivity {
 
