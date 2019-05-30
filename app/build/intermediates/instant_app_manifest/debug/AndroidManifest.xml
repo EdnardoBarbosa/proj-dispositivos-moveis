@@ -18,6 +18,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.example.myapplication.Medico4Activity" />
+        <activity android:name="com.example.myapplication.Medico3Activity" />
+        <activity android:name="com.example.myapplication.Medico2Activity" />
+        <activity android:name="com.example.myapplication.medico1Activity" />
         <activity android:name="com.example.myapplication.CadastroMedicoActivity" />
         <activity android:name="com.example.myapplication.CadastroPacienteActivity" />
         <activity android:name="com.example.myapplication.FirstActivity" />

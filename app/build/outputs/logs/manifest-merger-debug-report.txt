@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\edcb3317720cd11f00c3988887db0b7a\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\b01909a27e10ac19f292e6e3f7dcc844\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\3223b07031c62f96ee29134773901be8\AndroidManifest.xml:2:1-11:12
@@ -35,25 +35,25 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ferna\.gradle\cac
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\17ca8aead1bc3124be62ee9f08ac9e0d\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\1a5e31805ec2c63b9cc7a415e169581c\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\64188cdfca340487ab60c7cc9f800ad2\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
-INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-26:12
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\edcb3317720cd11f00c3988887db0b7a\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\edcb3317720cd11f00c3988887db0b7a\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ferna\.gradle\caches\transforms-2\files-2.1\3223b07031c62f96ee29134773901be8\AndroidManifest.xml:9:5-20
@@ -76,40 +76,56 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ferna\.gra
 		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.myapplication.Medico4Activity
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:12:9-62
+	android:name
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:12:19-50
+activity#com.example.myapplication.Medico3Activity
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:13:9-53
+	android:name
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:13:19-50
+activity#com.example.myapplication.Medico2Activity
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:14:9-53
+	android:name
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:14:19-50
+activity#com.example.myapplication.medico1Activity
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:15:9-53
+	android:name
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:15:19-50
 activity#com.example.myapplication.CadastroMedicoActivity
-ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:12:9-69
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:16:9-60
 	android:name
-		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:12:19-57
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:16:19-57
 activity#com.example.myapplication.CadastroPacienteActivity
-ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:13:9-62
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:17:9-62
 	android:name
-		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:13:19-59
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:17:19-59
 activity#com.example.myapplication.FirstActivity
-ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:14:9-51
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:18:9-51
 	android:name
-		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:14:19-48
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:18:19-48
 activity#com.example.myapplication.MainBuscaActivity
-ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:15:9-55
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:19:9-55
 	android:name
-		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:15:19-52
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:19:19-52
 activity#com.example.myapplication.LoginActivity
-ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:16:9-51
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:20:9-51
 	android:name
-		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:16:19-48
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:20:19-48
 activity#com.example.myapplication.MainActivity
-ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:17:9-23:20
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:21:9-27:20
 	android:name
-		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:17:19-47
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:21:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml:25:27-74
 uses-sdk
 INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\ferna\AndroidStudioProjects\MyApplication2\app\src\main\AndroidManifest.xml

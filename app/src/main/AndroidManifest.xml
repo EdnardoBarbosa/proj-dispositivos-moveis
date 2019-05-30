@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".CadastroMedicoActivity"></activity>
+        <activity android:name=".Medico4Activity"></activity>
+        <activity android:name=".Medico3Activity" />
+        <activity android:name=".Medico2Activity" />
+        <activity android:name=".medico1Activity" />
+        <activity android:name=".CadastroMedicoActivity" />
         <activity android:name=".CadastroPacienteActivity" />
         <activity android:name=".FirstActivity" />
         <activity android:name=".MainBuscaActivity" />
